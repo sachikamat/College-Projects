@@ -1,0 +1,2 @@
+Every transaction is just a record of changes made to the blockchain
+if change is not made, then there won't be a record of transaction
