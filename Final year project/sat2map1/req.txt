@@ -1,0 +1,8 @@
+keras
+pillow
+matplotlib
+tensorflow
+django-admin
+djangorestframework
+django
+django-cors-headers
